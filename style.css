@@ -31,6 +31,12 @@ a {
     color: black;
 }
 
+.left-menu {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
 ul {
     list-style-type: none;
     display: flex;
