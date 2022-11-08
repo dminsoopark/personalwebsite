@@ -3,6 +3,7 @@
 
 
 .navigation {
+    position: fixed;
     display: flex;
     height: 50px;
     background: #FCD12A;
