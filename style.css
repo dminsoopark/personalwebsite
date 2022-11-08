@@ -17,11 +17,6 @@
     font-size: 4em;
 }
 
-.logo:hover {
-    -webkit-transform: rotate(360deg);
-    transform: rotate(360deg);
-}
-
 a {
     text-decoration: none;
     color: black;
