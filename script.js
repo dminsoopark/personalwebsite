@@ -1,9 +1,9 @@
 var rotate = document.getElementById(`logo`);
 
-logo.addEventListener('moouseover', function() {
-    this.className = 'logo over';
+rotate.addEventListener('moouseover', function() {
+    this.className = 'rotate over';
 }, false);
 
-logo.addEventListener('mouseout', function() {
-    this.className = 'logo';
+rotate.addEventListener('mouseout', function() {
+    this.className = 'rotate';
 }, false);
