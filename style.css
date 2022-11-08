@@ -18,11 +18,11 @@
     transition: transform 1s;
 }
 
-#box:hover {
+#myLogo:hover {
     transform: rotate(-360deg);
 }
 
-#box:hover {
+#myLogo:hover {
     transform: rotate(360deg);
 }
 
