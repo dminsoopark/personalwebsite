@@ -1,6 +1,6 @@
 var rotate = document.getElementById(`logo`);
 
-rotate.addEventListener('moouseover', function() {
+rotate.addEventListener('mouseover', function() {
     this.className = 'rotate over';
 }, false);
 
