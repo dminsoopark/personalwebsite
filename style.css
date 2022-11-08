@@ -15,6 +15,15 @@
     justify-content: center;
     align-items: center;
     font-size: 4em;
+    transition: transform 1s;
+}
+
+#box:hover {
+    transform: rotate(-360deg);
+}
+
+#box:hover {
+    transform: rotate(360deg);
 }
 
 a {
