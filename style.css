@@ -38,4 +38,5 @@ ul {
     gap: 20px;
     justify-content: flex-start;
     padding: 20px;
+    align-items: center;
 }
