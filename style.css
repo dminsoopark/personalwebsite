@@ -19,31 +19,6 @@
     width: 100px;
 }
 
-#logo {
-    transform:rotate(0deg);
-        -moz-transform:rotate(0deg);
-        -ms-transform:rotate(0deg);
-        -o-transform:rotate(0deg);
-        -webkit-transform: rotate(0deg);
-    transition: transform 550ms ease;
-        -moz-transition: -moz-transform 550ms ease;
-        -ms-transition: -ms-transform 550ms ease;
-        -o-transition: -o-transform 550ms ease;
-        -webkit-transition: -webkit-transform 550ms ease;
-}
-
-.over {
-    transform: rotate(360deg);
-        -moz-transform: rotate(360deg);
-        -ms-transform: rotate(360deg);
-        -o-transform: rotate(360deg);
-        -webkit-transform: rotate(360deg);
-    transition: transform 550ms ease;
-        -moz-transition: -moz-transform 550ms ease;
-        -ms-transition: -ms-transform 550ms ease;
-        -o-transition: -o-transform 550ms ease;
-        -webkit-transition: -webkit-transform 550ms ease;
-}
 
 a {
     text-decoration: none;
